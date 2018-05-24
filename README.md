@@ -1,9 +1,11 @@
-# Flipkart Scraper  V1.0 : The most robust flipkart scraper.<br>
+# Flipkart Scraper  V1.1 : The most robust flipkart scraper.<br>
 
 **FEATURES**
-1. Can scrape upto 1000 products currently(**V1**).
+1. Can scrape upto 10000 products currently, within 5 minutes(**V1.1**).
 2. Create an **excel** file for the scraped products.
-3. Robust and user-friendly error handling.
+3. scrapes: Name, Rating, Specifications and current price of the product.
+4. Data can be exported anywhere like excel or can even can be written to database.
+5. Robust and user-friendly error handling.
 
 **USAGE**
 1. **pip install -r requirements.txt** in a virtual environment.

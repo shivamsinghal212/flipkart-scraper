@@ -9,9 +9,10 @@
 
 **USAGE**
 1. **pip install -r requirements.txt** in a virtual environment.
-2. Import Scrapper class from flipkart root.
-3. Scrapper class takes 1 argument for search.
-4. Use the initialize() function, It returns the data in the data-frame format.
-5. Have a look at flipkart_user, It saves the data-frame in the *excel* format.
-6. Modify flipkart_root at your own risk.
+2. Run **flipkart-search.py**
+3. Import Scrapper class from flipkart root.
+4. Scrapper class takes 1 argument for search.
+5. Use the initialize() function, It returns the data in the data-frame format.
+6. Have a look at flipkart_user, It saves the data-frame in the *excel* format.
+7. Modify flipkart_root at your own risk.
 
